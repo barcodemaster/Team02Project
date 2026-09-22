@@ -26,4 +26,5 @@ void main() {
 
 public static void a() {
     int i = 1;
+    int j = 2;
 }
