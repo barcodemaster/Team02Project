@@ -24,5 +24,5 @@ void main() {
 }
 
 public static void a() {
-    
+    int i = 1;
 }
